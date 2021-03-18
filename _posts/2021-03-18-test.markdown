@@ -3,9 +3,9 @@ layout: post
 title: test01
 date: 2021-03-18 10:53:20
 description: 这是描述，不加引号可以吗
-img: i-rest.jpg #
+img: p1.jpeg #
 fig-caption: #
-tags: [Test]
+tags: [重庆,长江]
 ---
 这是第一段话
 
