@@ -1,0 +1,10 @@
+---
+layout: post
+title: 三个小屋，三段实习，三段快乐的时光
+date: 2021-03-20 24:04:20
+description: #
+img: shixi.jpeg #
+fig-caption: #
+tags: [重庆,北京,实习,租房]
+---
+from 重庆 to 北京, 开启实习之旅
