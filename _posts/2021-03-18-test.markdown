@@ -1,12 +1,10 @@
 ---
 layout: post
-title: test01
+title: 在一起，共饮长江水
 date: 2021-03-18 10:53:20
-description: 这是描述，不加引号可以吗
-img: p1.jpeg #
+description: #
+img: p2-min.jpeg #
 fig-caption: #
-tags: [重庆,长江]
+tags: [告白,重庆,长江]
 ---
-这是第一段话
-
-这是第二段话
+2019年05月13日晚上，长江见证了两人的在一起。从此两人陷入爱情的漩涡不能自拔
