@@ -1,0 +1,10 @@
+---
+layout: post
+title: 毕业第一份工作和我们的”新家“，fighting，打工人
+date: 2021-07-01 11:06:20
+description: #
+img: work.jpeg #
+fig-caption: #
+tags: [工作]
+---
+不懈努力，大家都找到属于自己比较满意的工作，以后的日子，加油赚钱！

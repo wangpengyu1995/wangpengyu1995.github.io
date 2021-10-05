@@ -1,0 +1,10 @@
+---
+layout: post
+title: 第一次没有“略过”的生日，幸福满满
+date: 2021-09-15 10:06:20
+description: #
+img: birth.jpeg #
+fig-caption: #
+tags: [生日]
+---
+和以往不同，这次有蛋糕，仪式感满满！
