@@ -1,0 +1,10 @@
+---
+layout: post
+title: 欢迎“五百”入住新家
+date: 2021-11-05 12:04:20
+description: #
+img: cat.jpeg #
+fig-caption: #
+tags: [猫]
+---
+开始养猫，你说为什么他叫五百，因为它原价500，就是这么随性！
