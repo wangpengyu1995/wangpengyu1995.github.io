@@ -1,0 +1,10 @@
+---
+layout: post
+title: 户外爬山-香山红叶
+date: 2021-11-15 09:04:20
+description: #
+img: pashan.jpeg #
+fig-caption: #
+tags: [香山,爬山，户外运动]
+---
+周末偶尔爬个小山，放松放松心情，可惜没赶上红叶
