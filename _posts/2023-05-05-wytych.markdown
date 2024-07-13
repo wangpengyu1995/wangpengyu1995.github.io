@@ -1,0 +1,10 @@
+---
+layout: post
+title: 五月天演唱会
+date: 2023-05-05 10:04:20
+description: #
+img: wytych.jpg #
+fig-caption: #
+tags: [北京,五月天,演唱会]
+---
+从没见过活的明星，第一次参加演唱会，场面之震撼，粉丝是真的热情，票价也不便宜
