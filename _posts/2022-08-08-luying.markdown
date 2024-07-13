@@ -1,0 +1,10 @@
+---
+layout: post
+title: 和朋友一起露营
+date: 2022-08-08 10:04:20
+description: #
+img: luying.jpg #
+fig-caption: #
+tags: [露营,烤肉]
+---
+第一次露营，不过没有住宿，体验了下帐篷下烤肉的爽

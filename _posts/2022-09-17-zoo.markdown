@@ -1,0 +1,10 @@
+---
+layout: post
+title: 北京野生动物园
+date: 2022-09-17 10:04:20
+description: #
+img: zoo.jpg #
+fig-caption: #
+tags: [北京,动物园]
+---
+北京野生动物园，正宗纯野生，和一般动物园相比，透发着一股野性
