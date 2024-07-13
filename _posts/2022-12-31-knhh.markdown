@@ -1,0 +1,10 @@
+---
+layout: post
+title: 2022跨年
+date: 2022-12-31 10:04:20
+description: #
+img: knhu.jpg #
+fig-caption: #
+tags: [跨年,画画]
+---
+别样的跨年，第一次画油墨（还不错吧），迎接新的一年

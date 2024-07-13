@@ -1,0 +1,10 @@
+---
+layout: post
+title: 打卡民族文化宫
+date: 2022-10-12 10:04:20
+description: #
+img: minzu.jpg #
+fig-caption: #
+tags: [北京,民族文化宫]
+---
+不大的一个地方，适合拍照，感受文化美
