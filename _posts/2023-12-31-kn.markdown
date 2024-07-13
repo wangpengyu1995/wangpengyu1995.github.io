@@ -1,0 +1,10 @@
+---
+layout: post
+title: 23年跨年迎接2024
+date: 2023-12-31 10:04:20
+description: #
+img: 23kn.jpg #
+fig-caption: #
+tags: [跨年,北京]
+---
+落日音乐会的音乐声中，23年落幕，24年继续奋发

@@ -1,0 +1,10 @@
+---
+layout: post
+title: 不一样的徒步
+date: 2024-04-13 10:04:20
+description: #
+img: tubu.jpg #
+fig-caption: #
+tags: [北京,徒步,梨花谷,樱花列车]
+---
+我以为的徒步是溜达，专业的徒步是分等级的，是身体的挑战。坚持的动力就是爬到顶吹着山风，欣赏一览众山小的feel

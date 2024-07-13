@@ -1,0 +1,10 @@
+---
+layout: post
+title: 新年-家长见面会
+date: 2024-02-03 10:04:20
+description: #
+img: guonian.jpg #
+fig-caption: #
+tags: [四川,过年,家长见面]
+---
+约了好久的家长见面趁着过年的契机，终于了结心愿，一起逛四川特色景点，吃特色美食

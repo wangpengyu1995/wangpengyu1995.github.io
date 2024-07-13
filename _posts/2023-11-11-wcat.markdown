@@ -1,0 +1,10 @@
+---
+layout: post
+title: 第二只小猫
+date: 2023-11-11 10:04:20
+description: #
+img: w.jpg #
+fig-caption: #
+tags: [宠物,猫]
+---
+迎来第二只小猫，取名叫“w“,为啥呢，因为大猫叫“五百”，合起来就是五百w，也是北漂奋斗目标

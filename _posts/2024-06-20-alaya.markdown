@@ -1,0 +1,10 @@
+---
+layout: post
+title: 阿拉亚之旅
+date: 2024-06-20 10:04:20
+description: #
+img: alay.jpg #
+fig-caption: #
+tags: [阿拉亚,旅游]
+---
+阿拉亚，小红书带火的景区，适合拍照，但是要论玩是真不行，不自然，纯人造风格
